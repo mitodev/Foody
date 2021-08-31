@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/drawable/f.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/drawable/ic_favorite.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/drawable/path_5884.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/fragment_favorite.xml" value="0.17346014492753623" />
         <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/fragment_joke.xml" value="0.21794061907770057" />
-        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/fragment_recipes.xml" value="0.22" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/fragment_recipes.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/placeholder_row_layout.xml" value="0.22" />
-        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/recipes_row_layout.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/layout/recipes_row_layout.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/menu/menu_view.xml" value="0.1" />
+        <entry key="..\:/Users/mitod/AndroidStudioProjects/foody/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.17685185185185184" />
       </map>
     </option>
   </component>

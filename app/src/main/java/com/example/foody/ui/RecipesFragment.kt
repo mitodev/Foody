@@ -5,11 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.foody.R
+import androidx.fragment.app.viewModels
+import com.example.foody.MainViewModel
 import com.example.foody.databinding.FragmentRecipesBinding
 
 class recipesFragment : Fragment() {
 
+    private val mainViewModel :MainViewModel by viewModels()
     private var _binding: FragmentRecipesBinding? = null
     private val binding get() = _binding!!
 
@@ -22,8 +24,6 @@ class recipesFragment : Fragment() {
         val view = binding.root
 
         binding.RecyclerView.showShimmer()
-
-
 
         return view
     }
